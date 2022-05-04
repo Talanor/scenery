@@ -19,7 +19,7 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "https://github.com/VanceCole/scenery",
-  "manifest": "https://raw.githubusercontent.com/VanceCole/scenery/master/module.json",
-  "download": "https://github.com/VanceCole/scenery/releases/download/0.1.4/module.zip"
+  "url": "https://github.com/Talanor/scenery",
+  "manifest": "https://raw.githubusercontent.com/Talanor/scenery/master/module.json",
+  "download": "https://github.com/Talanor/scenery/releases/download/0.1.4/module.zip"
 }
